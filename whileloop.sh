@@ -1,4 +1,4 @@
-#Darshan Mistry..
+#Darshan Mistry.
 #While Loop Function.
 
 #!/bin/bash
